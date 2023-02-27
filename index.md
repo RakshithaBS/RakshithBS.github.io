@@ -1,123 +1,25 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+# Machine Learning 
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## Increasing Sales : A Lead Scoring Case Study
 
-```
-The final element.
-```
+An ed-tech startup has spent massive amount in customer acquistions costs, and is now looking to utlize the marketing spends efficiently. A lead is any customer who views the website/platform. A customer/lead can visit the platform through various sources and medium. A junk lead is generated when person shares the contact details but shows no interest in the product or service. The objective here is minimize the junk leads by employing Machine learning algorithms. The task of the ML model is to predict whether the lead is an eligible or a junk lead.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RakshithaBS/Lead_Scoring_Case_Study)
+
+
+## Accelerating Healthcare Data Insights: Automating Disease and Treatment Extraction from E-Prescriptions
+
+The healthcare industry generates a vast amount of clinical text data in the form of medical records, clinical notes, e-prescriptions, and other related documents. Analyzing this text data can provide valuable insights into patient care, disease diagnosis, and treatment outcomes. However, extracting relevant information from unstructured clinical text can be a time-consuming and error-prone process, requiring trained personnel with clinical knowledge to manually review and extract the data.
+
+In the case of e-prescriptions, a data entry team manually extracts information about diseases and treatments from clinical notes, followed by a validation team to confirm the accuracy of the extracted data. This process is prone to errors and can be time-consuming, requiring the team's size to scale up as the data increases. Automating this process can reduce man-hours, improve data accuracy, and provide valuable insights into patient care and treatment outcomes. 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RakshithaBS/NER_tag_identification)
+
+## Personalized Product Recommendations for E-Commerce Platforms
+
+Recommendation systems are becoming increasingly important in the e-commerce industry as they enable online retailers to provide a personalized and efficient shopping experience for their customers. By analyzing previous purchase history, product ratings, and reviews, recommendation engines can recommend products that a user is more likely to purchase or enjoy. This personalized approach to shopping has been shown to increase customer loyalty, improve customer satisfaction, and drive sales for e-commerce businesses.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RakshithaBS/Recommendation_System)
